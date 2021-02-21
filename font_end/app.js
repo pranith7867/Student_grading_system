@@ -5,7 +5,6 @@ const section2 = document.querySelector('.section2');
 const signinBtn = document.querySelector('.signin');
 const signupBtn = document.querySelector('.signup')
 
-
 const loginReg = document.querySelector('.reg');
 const RegBack = document.querySelector('.back'); 
 
